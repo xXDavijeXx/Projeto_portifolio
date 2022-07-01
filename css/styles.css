@@ -6521,6 +6521,12 @@ textarea.form-control-lg {
   z-index: 1030;
 }
 
+.fixed-bottom-wp {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
 .fixed-bottom {
   position: fixed;
   right: 0;
